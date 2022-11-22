@@ -1,5 +1,4 @@
-# .github
-## About Dyna&omega;o
+# About Dyna&omega;o
 
 **Dyna&omega;o is an hybrid C++/Modelica open source suite of simulation tools for power systems. It aims at providing power system stakeholders with a transparent, flexible, interoperable and robust suite of simulation tools that could ease collaboration and cooperation in the power system community.**
 
