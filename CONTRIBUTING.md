@@ -5,7 +5,9 @@ Whether you are looking to report a bug, propose a new feauture or simply gettin
 <a name="reporting_bugs"></a>
 
 ## Reporting Bugs
-If you encounter any kind of issue with any of the Dyna&omega;o [repositories](https://github.com/dynawo), the first things to do is to ask for help creting an issue in the repository where the problem has been identified. If possible, explain in the most clear way the matter and try to associate one of the available labels to the issue. The github [repositories](https://github.com/dynawo) are the privileged environment to exchange informations.
+If you encounter any kind of issue with any of the Dyna&omega;o [repositories](https://github.com/dynawo), the first things to do is to ask for help creating an issue in the repository where the problem has been identified. If possible, explain in the most clear way the matter and try to associate one of the available labels to the issue. Any test case helping clarifying the issue can be added.
+
+The github [repositories](https://github.com/dynawo) are the privileged environment to exchange informations.
 
 If you experince any difficulty to create an issue on one of the Dyna&omega;o repository, you can also send an e-mail to [rte-dynawo@rte-france.com](mailto:rte-dynawo@rte-france.com).
 
@@ -25,6 +27,7 @@ Then, on your terminal, you can write:
 ``` bash
 $> git checkout -b NUMBEROFISSUE_name_of_your_branch
 ```
+Notice that NUMBEROFISSUE refers to the issue number reported in the github repository when an issue is created. The branch name must respect this convention to be considered as available in any Dynaw&omega;o repository
 As soon your contribution is ready to be pushed on the repository, please use:
 ``` bash
 $> git push
