@@ -18,4 +18,3 @@ The Dynaw&omega;o project is split into several [repositories](https://github.co
 * Best effort to resolve issues,
 * Building and publishing the releases, including writing the release notes and informing the community
 
-Please refer to our maintainers list for more details about our work division.
