@@ -1,7 +1,7 @@
 Dyna&omega;o [repositories](https://github.com/dynawo) releases are available approximatevely every three months, based on best effort.
-for each main projects (dynawo, dynawo-algorithms, dynaflow-launcher), Dyna&omega;o  is validated on a nightly basis with unit tests and non regressions tests. The compilation on different platforms is also validated on a nightly or weekly basis (Fedora, Ubuntu, Windows). 
+For each main projects ([dynawo](https://github.com/dynawo/dynawo), [dynawo-algorithms](https://github.com/dynawo/dynawo-algorithms), [dynaflow-launcher](https://github.com/dynawo/dynaflow-launcher)), Dyna&omega;o  is validated on a nightly basis with unit tests and non regressions tests. The compilation on different platforms is also validated on a nightly or weekly basis (Fedora, Ubuntu, Windows). 
 
-A Dyna&omega;o distribution is always released for all main projects (dynawo, dynawo-algorithms, dynaflow-launcher)  with the same version and at the same time. 
+A Dyna&omega;o distribution is always released for all main projects ([dynawo](https://github.com/dynawo/dynawo), [dynawo-algorithms](https://github.com/dynawo/dynawo-algorithms), [dynaflow-launcher](https://github.com/dynawo/dynaflow-launcher))  with the same version and at the same time. 
 
 When a release is about to comes out, a controled release-candidate branch (labeled v<MAJOR>.<MINOR>) is created in each target project projects and integration tests are then started and analysed by the team (France cases and some key testcases from previous years).
 
