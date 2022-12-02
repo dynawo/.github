@@ -5,4 +5,5 @@ Please find below the Maintainers of all the dynawo [repositories](https://githu
 * [cossartque](https://github.com/cossartque)
 * [gautierbureau](https://github.com/gautierbureau)
 * [marcochiaramello](https://github.com/marcochiaramello)
+* [ianmenezes](https://github.com/menezesian)
 * [rosiereflo](https://github.com/rosiereflo)
